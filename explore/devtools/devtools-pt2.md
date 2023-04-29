@@ -1,0 +1,2 @@
+1. `num1` and `num2` are strings, so `result` concatenated them as strings instead of adding them as numbers. `result` should not be of type string.
+2. I would fix it by converting `num1` and `num2` to numbers before adding them.
